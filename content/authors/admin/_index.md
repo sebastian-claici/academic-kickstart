@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include optimal transport, convex optimization, bayesian inference, and robust learning.
+bio: My research interests include optimal transport, convex optimization, and Bayesian inference.
 
 interests:
 - Optimal Transport
@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=T2UHRgoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sebastian-claici
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,9 +65,12 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- Visitors
 ---
-I am a final year PhD student in the [Geometric Data Processing Group](http://groups.csail.mit.edu/gdpgroup/) at MIT. My research focus is on optimal transport with applications to Bayesian inference, robust learning, clustering, and data summarization.
+I am a final year PhD student in the [Geometric Data Processing Group](http://groups.csail.mit.edu/gdpgroup/) at MIT. My research focus is on discrete optimal transport with applications to Bayesian inference, robust learning, clustering, and data summarization. During my time in GDP I’ve been lucky to collaborate with many incredible people, among them [Justin Solomon](http://people.csail.mit.edu/jsolomon/), [Edward Chien](http://people.csail.mit.edu/eddchien/), [Matthew Staib](http://www.mit.edu/~mstaib/), and [Hugo Lavenant](https://www.math.u-psud.fr/~lavenant/).
 
 Prior to joining Justin’s group, I was a Master’s student with [Daniela Rus](http://danielarus.csail.mit.edu/) in the Distributed Robotics Lab where I worked on modular robotics and path planning. Before coming to MIT, I received my BSc from the University of Southampton in the United Kingdom under the supervision of [Klaus-Peter Zauner](https://www.ecs.soton.ac.uk/people/kpz).
 
-I have done research in interpretability of deep learning at Google, worked on semantic segmentation with Bosch, and user experience at EPFL in Lausanne.
+I have done internships in interpretability of deep learning at Google, semantic segmentation with Bosch Research and Technology Center, and user experience at EPFL in Lausanne.
+
+In my spare time, I enjoy hiking, climbing, and [pontificating](#posts) on books I've read.

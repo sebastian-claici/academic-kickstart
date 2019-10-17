@@ -1,2 +1,6 @@
 public/
 .idea/
+
+publish.sh
+public/
+*~
