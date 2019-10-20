@@ -4,7 +4,10 @@ summary: An impersonal, detached account of a life forgotten and abstracted away
 
 date: 2019-10-17
 
+categories: ["Literature"]
+
 reading_time: true
+commentable: true
 
 image:
   placement: 1

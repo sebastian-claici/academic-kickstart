@@ -2,9 +2,12 @@
 title: "'Drive Your Plow' falters by not going far enough"
 summary: Her neighbors die one after another in mysterious circumstances. An old ailing Polish woman armed with the powers of astrology is on the case. (5/10)
 
+categories: ["Literature"]
+
 date: "2019-10-12"
 
 reading_time: true
+commentable: true
 
 image:
   placement: 1

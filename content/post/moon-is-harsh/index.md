@@ -4,7 +4,10 @@ summary: Review of Robert Heinlein's "The Moon is a Harsh Mistress"
 
 date: 2019-10-08
 
+categories: ["Literature"]
+
 reading_time: true
+commentable: true
 
 image:
   placement: 1
