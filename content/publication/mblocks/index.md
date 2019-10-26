@@ -1,5 +1,5 @@
 +++
-title = "Distributed Aggregation for Modular Robots in the Pivoting Cube Model"
+title = "3D M-Blocks: Self-reconfiguring robots capable of locomotion via pivoting in three dimensions"
 date = 2015-05-01T00:00:00
 draft = false
 
